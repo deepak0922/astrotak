@@ -1,0 +1,43 @@
+.footer{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 30px;
+    background-color: azure;
+
+}
+.footer ul{
+    margin: 0px;
+    align-items: center;
+    padding: 0px;
+}
+.footer li{
+    display: inline;
+    margin: 0px;
+}
+
+.home-icon{
+    width: 30px;
+    height: 30px;
+    margin: 13px;
+}
+.talk-icon{
+
+    width: 30px;
+    height: 30px;
+    margin: 13px;
+}
+.ask-icon{
+    width: 30px;
+    height: 30px;
+    margin: 13px;
+}
+.reports-icon{
+    width: 30px;
+    height: 30px;
+    margin: 13px;
+}
+.chat-icon{
+    width: 30px;
+    height: 30px;
+    margin: 13px;
+}

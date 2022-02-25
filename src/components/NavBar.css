@@ -1,0 +1,36 @@
+
+.navbar-a{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 0px;
+}
+.navbar-a ul{
+    margin: 0px;
+    align-items: center;
+    padding: 0px;
+}
+.navbar-a li{
+    display: inline;
+    margin: 0px;
+}
+
+.logo-icon{
+    width: 14%;
+    height: 14%;
+    margin-bottom: -5px;
+    padding-top: 10px;
+    margin: 0px;
+    padding-left: 1%;
+}
+.hamburger-icon{
+   padding-right: 33%;
+   margin-left: 5px; 
+   padding-top: -10px;
+   width: 7%;
+   height: 7%;
+}
+.profile-icon{
+    width: 9%;
+    height: 9%;
+    padding-left: 33%;
+}
